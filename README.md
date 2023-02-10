@@ -3,6 +3,15 @@
 
 ### 關於專題的七大奇景：https://www.notion.so/78e0d5c876b64cab92958080ba9d5084
 ### 專題思緒：https://www.notion.so/9a72190aa1e54431b7e9eb4033ff9c4e
+## 檔名的功用：
+* ### try01Code(主程式)
+* ### Lable01(內部Write)
+* ### BOX(外部視窗)
+* ### BOXInternalFrame(BOX的內部視窗)
+* ### ImgmovePanel(測試小人)合併版
+* ### MusicBG(背景音樂)
+* ### RaidoBottons(設定版面物件是否顯示)
+* ### DemoScrollBarUI_Blue/Pink/Green/Yellow
 
 ## 小人進化史：
 * ### Lable(只會動) → Button(可以按，但沒用) → Button(可以按，有動作)
