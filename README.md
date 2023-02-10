@@ -1,8 +1,8 @@
 # JAVA-2022-大一下
 類似桌寵的筆記本，又稱：可愛的小小人，下面有詳細記錄當時的心情，是我大學接觸程式以來很大的突破。
 
-#### 關於專題的七大奇景：https://www.notion.so/78e0d5c876b64cab92958080ba9d5084
-#### 專題思緒：https://www.notion.so/9a72190aa1e54431b7e9eb4033ff9c4e
+### 關於專題的七大奇景：https://www.notion.so/78e0d5c876b64cab92958080ba9d5084
+### 專題思緒：https://www.notion.so/9a72190aa1e54431b7e9eb4033ff9c4e
 
 ## 小人進化史：
 ### Lable(只會動) → Button(可以按，但沒用) → Button(可以按，有動作)
