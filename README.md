@@ -9,7 +9,7 @@
 * ### BOX(外部視窗)
 * ### BOXInternalFrame(BOX的內部視窗)
 * ### ImgmovePanel(測試小人)合併版
-* ### MusicBG(背景音樂)
+* ### MusicBG(背景音樂)：上面的檔案因為音樂檔超過25MB所以沒放上去 <*檔名：因為喜歡你*>
 * ### RaidoBottons(設定版面物件是否顯示)
 * ### DemoScrollBarUI_Blue/Pink/Green/Yellow
 
